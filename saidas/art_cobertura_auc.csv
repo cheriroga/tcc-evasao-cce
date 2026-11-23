@@ -1,0 +1,3 @@
+"quantidade","simulacoes","B","cobertura","abaixo","acima","largura_media","alvo_medio","estimativa_media","ep_monte_carlo"
+"AUC corrigida do modelo completo",200,200,0.85,0.02,0.13,0.0672283072913,0.571956758428371,0.583761300346946,0.0252487623459052
+"ΔAUC (completo − linha de base)",200,200,0.91,0.04,0.05,0.0593169915029629,0.0310957514830594,0.0354467225353759,0.0202361063448481

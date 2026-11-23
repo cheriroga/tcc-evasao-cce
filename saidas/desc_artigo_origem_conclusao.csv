@@ -1,0 +1,21 @@
+"amostra","origem","conclusao","n","pct"
+"base","AC, escola privada","2",226,100
+"base","AC, egresso sem informação","1",316,88.268156424581
+"base","AC, egresso sem informação","2",41,11.4525139664804
+"base","AC, egresso sem informação","4",1,0.279329608938547
+"base","AC, escola pública","2",118,100
+"base","Cotista, egresso","1",296,86.8035190615836
+"base","Cotista, egresso","2",44,12.9032258064516
+"base","Cotista, egresso","4",1,0.293255131964809
+"base","Cotista, escola estadual/municipal","2",217,100
+"base","Cotista, escola federal","2",60,100
+"modelo","AC, escola privada","2",226,100
+"modelo","AC, egresso sem informação","1",315,88.2352941176471
+"modelo","AC, egresso sem informação","2",41,11.484593837535
+"modelo","AC, egresso sem informação","4",1,0.280112044817927
+"modelo","AC, escola pública","2",118,100
+"modelo","Cotista, egresso","1",292,87.1641791044776
+"modelo","Cotista, egresso","2",42,12.5373134328358
+"modelo","Cotista, egresso","4",1,0.298507462686567
+"modelo","Cotista, escola estadual/municipal","2",216,100
+"modelo","Cotista, escola federal","2",60,100

@@ -1,0 +1,19 @@
+"bloco","base","pct","categoria","n","n_sem_registro"
+"coorte","saídas do 1º sem.",24,"2019",50,12
+"coorte","saídas do 1º sem.",85.7142857142857,"2020",35,30
+"coorte","saídas do 1º sem.",33.9622641509434,"2021",53,18
+"coorte","saídas do 1º sem.",31.1475409836066,"2022",61,19
+"coorte","saídas do 1º sem.",50,"2023",42,21
+"coorte","saídas do 1º sem.",51.8518518518519,"2024",27,14
+"lançamento (2019, 2021–2023)","saídas do 1º sem.",71.875,"fev–jun",64,46
+"lançamento (2019, 2021–2023)","saídas do 1º sem.",16.9014084507042,"jul–dez",142,24
+"lançamento (2019)","saídas do 1º sem.",60,"fev–jun",20,12
+"lançamento (2019)","saídas do 1º sem.",0,"jul–dez",30,0
+"origem (sem 2020)","ingressantes",8.76288659793815,"AC, escola privada",194,17
+"origem (sem 2020)","ingressantes",5.94405594405594,"AC, egresso sem informação",286,17
+"origem (sem 2020)","ingressantes",4.90196078431373,"AC, escola pública",102,5
+"origem (sem 2020)","ingressantes",7.9136690647482,"Cotista, egresso",278,22
+"origem (sem 2020)","ingressantes",11.4285714285714,"Cotista, escola estadual/municipal",175,20
+"origem (sem 2020)","ingressantes",7.31707317073171,"Cotista, escola federal",41,3
+"coorte 2019, taxa de evasão","ingressantes (n_sem_registro = evasões)",23.9495798319328,"todas as saídas",238,57
+"coorte 2019, taxa de evasão","ingressantes (n_sem_registro = evasões)",19.9115044247788,"sem as do 1º sem. sem registro",226,45

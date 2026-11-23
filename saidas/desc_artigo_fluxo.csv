@@ -1,0 +1,13 @@
+"etapa","n","eventos"
+"Ingressantes UFES 2018-2024 (registros)",35136,NA
+"Matrículas distintas (deduplicação)",34749,NA
+"Cursos do CCE (Goiabeiras), todos os semestres",1790,NA
+"Cursos do CCE, 1º semestre",1624,NA
+"Ingressantes CCE 1º sem. 2018-2024 (vínculos)",1624,368
+"Excluídos: coorte de 2018 (registro de saídas não comparável)",242,29
+"Ingressantes CCE 1º sem. 2019-2024",1382,339
+"Excluídos: sem nota por área do ENEM",61,7
+"Excluídos: ajuste de currículo no ano de ingresso (desfecho indefinido)",1,NA
+"Base analítica",1320,332
+"Excluídos: renda (Q006) ausente",8,1
+"Modelo principal (complete-case renda)",1312,331

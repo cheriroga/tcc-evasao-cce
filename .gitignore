@@ -1,0 +1,22 @@
+# Bases da Ufes (identificadores pessoais) e microdados do Enem: fora do git
+dados/
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.ps
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*-eps-converted-to.pdf
+main.pdf
+# R
+.Rproj.user/
+.RData
+.Rhistory
+*_flat.pdf
+*.lof
+*.lot

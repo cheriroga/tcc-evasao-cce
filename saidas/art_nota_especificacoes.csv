@@ -1,0 +1,4 @@
+"verificacao","gl","p","RR","IC95_inf","IC95_sup"
+"interação nota × curso (Wald)",6,0.610936708024616,NA,NA,NA
+"desvio da linearidade: spline 3 gl (Wald)",2,0.24130580031479,NA,NA,NA
+"nota padronizada em curso × coorte (RR por DP)",NA,0.557579578866533,0.967766174940178,0.867386040784635,1.07976301821865
